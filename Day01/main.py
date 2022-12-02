@@ -1,5 +1,5 @@
 def main():
-    file = open("input.txt", "r")
+    file = open("Day01/input.txt", "r")
     lines = file.read()
     lines = lines.splitlines()
     # print(lines)
